@@ -13,11 +13,13 @@ Welcome to the OIBSIP (Online Internship Projects) repository! This repository c
 Level 1 consists of three projects that helped me gain a foundational understanding of web development. These projects focused on front-end development, HTML, CSS, and JavaScript.
 
 1. Project 1 - ***Starbucks Landing Page***:
+   
 
    - Description: A landing page for Starbucks, built using HTML, CSS, and JavaScript.
    - Technologies Used: HTML, CSS, JavaScript
    - Deployment: The page is deployed on Vercel at [Starbucks Landing Page](https://starbucks-landing-page-alok-2002.vercel.app).
    - Repository: The project's GitHub repository can be found at [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/Starbucks_Landing_Page).
+   - ScreenShots: ![Screenshot 2023-07-24 202845](https://github.com/Alok-2002/OIBSIP/assets/93814546/f37b638b-44d8-4251-842c-cab7b72970f9)
 
 2. Project 2 - *Project Name*
    - Description: [Brief description of the project]
@@ -46,6 +48,8 @@ Level 2 includes several projects that build upon the skills acquired in Level 1
    - Technologies Used: HTML, CSS, JavaScript
    - Deployment: The calculator is deployed on Vercel at [Calculator Wizard](https://calculator-wizard.vercel.app).
    - Repository: The project's GitHub repository is available at [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/Calculator_Wizard).
+   - ScreenShots: ![Screenshot 2023-07-26 194623](https://github.com/Alok-2002/OIBSIP/assets/93814546/9245648e-50e9-42d8-8cf4-6ca1d6d2c23e)
+
 
 3. Project 3 - ***To Do Express Website***:
 
