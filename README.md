@@ -62,6 +62,7 @@ Level 3 is the final level and consists of one comprehensive project. This proje
 - Project - ***Pizza Delivery Web Application***
   - Description: A full-stack web application that allows users to order pizza online. It includes features like selecting pizza toppings, customizing orders,          payment integration, and order tracking.
   - Technologies Used: [List of technologies used]
+  - Deployment: 
   - Repository: [Link to the project repository]
 
 ## Conclusion
