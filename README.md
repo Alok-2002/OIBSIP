@@ -12,10 +12,12 @@ Welcome to the OIBSIP (Online Internship Projects) repository! This repository c
 
 Level 1 consists of three projects that helped me gain a foundational understanding of web development. These projects focused on front-end development, HTML, CSS, and JavaScript.
 
-1. Project 1 - *Project Name*
-   - Description: [Brief description of the project]
-   - Technologies Used: [List of technologies used]
-   - Repository: [Link to the project repository]
+1. Project 1 - ***Starbucks Landing Page***:
+
+   - Description: A landing page for Starbucks, built using HTML, CSS, and JavaScript.
+   - Technologies Used: HTML, CSS, JavaScript
+   - Deployment: The page is deployed on Vercel at [Starbucks Landing Page](https://starbucks-landing-page-alok-2002.vercel.app).
+   - Repository: The project's GitHub repository can be found at [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/Starbucks_Landing_Page).
 
 2. Project 2 - *Project Name*
    - Description: [Brief description of the project]
@@ -31,14 +33,14 @@ Level 1 consists of three projects that helped me gain a foundational understand
 
 Level 2 includes several projects that build upon the skills acquired in Level 1. These projects focused on back-end development, databases, and server-side scripting.
 
-1. Project 1 - ***Starbucks Landing Page***:
+1.  Project 1 - ***Calculator Wizard***:
 
-   - Description: A landing page for Starbucks, built using HTML, CSS, and JavaScript.
+   - Description: A simple calculator made using HTML, CSS, and JavaScript.
    - Technologies Used: HTML, CSS, JavaScript
-   - Deployment: The page is deployed on Vercel at [Starbucks Landing Page](https://starbucks-landing-page-alok-2002.vercel.app).
-   - Repository: The project's GitHub repository can be found at [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/Starbucks_Landing_Page).
+   - Deployment: The calculator is deployed on Vercel at [Calculator Wizard](https://calculator-wizard.vercel.app).
+   - Repository: The project's GitHub repository is available at [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/Calculator_Wizard).
 
-2. Project 2 - ***Calculator Wizard***:
+2. Project 1 - ***Tribute Page***:
 
    - Description: A simple calculator made using HTML, CSS, and JavaScript.
    - Technologies Used: HTML, CSS, JavaScript
