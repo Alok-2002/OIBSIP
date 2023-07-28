@@ -39,7 +39,7 @@ Level 2 includes several projects that build upon the skills acquired in Level 1
 
    - Description: A simple calculator made using HTML, CSS, and JavaScript.
    - Technologies Used: HTML, CSS, JavaScript
-   - Deployment: The calculator is deployed on Vercel at [Calculator Wizard](https://calculator-wizard.vercel.app).
+   - Deployment: The calculator is deployed on Vercel at [Tribute Page](https://calculator-wizard.vercel.app).
    - Repository: The project's GitHub repository is available at [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/Calculator_Wizard).
    - ScreenShots: ![Screenshot 2023-07-26 194623](https://github.com/Alok-2002/OIBSIP/assets/93814546/9245648e-50e9-42d8-8cf4-6ca1d6d2c23e)
 
