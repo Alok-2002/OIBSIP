@@ -46,18 +46,22 @@ Level 2 includes several projects that build upon the skills acquired in Level 1
 
 2. Project 2 - ***Tribute Page***:
 
-   - Description: A simple calculator made using HTML, CSS, and JavaScript.
+   - Description: A simple Tribute Page made using HTML, CSS, and JavaScript.
    - Technologies Used: HTML, CSS, JavaScript
-   - Deployment: The calculator is deployed on Vercel at [Calculator Wizard](https://calculator-wizard.vercel.app).
+   - Deployment: The Tribute Page is deployed on Vercel at [Calculator Wizard](https://atal-bihari-vajpaayee.vercel.app).
    - Repository: The project's GitHub repository is available at [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/Calculator_Wizard).
+   - ScreenShots: ![image](https://github.com/Alok-2002/OIBSIP/assets/93814546/38ddafb4-ac0c-4778-a9d2-d90425304d90)
+
    
 
 3. Project 3 - ***To Do Express Website***:
 
    - Description: A simple to-do app built using HTML, CSS, and JavaScript.
    - Technologies Used: HTML, CSS, JavaScript
-   - Deployment: The app is deployed on Vercel at [To Do Express](https://todoexpress.vercel.app).
+   - Deployment: The app is deployed on Vercel at [To Do Express](https://to-doexpress.vercel.app/).
    - Repository: The project's GitHub repository can be found at [GitHub Repository](https://github.com/Alok-2002/OIBSIP/tree/main/To_Do_Express).
+   - ScreenShots: ![image](https://github.com/Alok-2002/OIBSIP/assets/93814546/29d2329a-ab8d-488d-8380-bdc936234681)
+
 
 
 ## Level 3 Project
